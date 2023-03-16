@@ -1,5 +1,8 @@
 # ignore windows folders
 .idea/
 
+# ignore files needed to speed up compilation
+__pychache__/
+
 # ignore virtual environment files
 venv/
